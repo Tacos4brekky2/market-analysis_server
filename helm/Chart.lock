@@ -1,0 +1,15 @@
+dependencies:
+- name: redis
+  repository: file://charts/redis
+  version: 0.1.0
+- name: mongodb
+  repository: file://charts/mongodb
+  version: 0.1.0
+- name: dbupdater
+  repository: file://charts/dbupdater
+  version: 0.1.0
+- name: dbinterface
+  repository: file://charts/dbinterface
+  version: 0.1.0
+digest: sha256:42c2467cecc3d63f066f015114c08012d0b4a594625e0836a408f21bad813c1e
+generated: "2024-07-12T20:56:00.751387-07:00"
